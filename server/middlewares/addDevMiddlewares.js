@@ -33,7 +33,7 @@ module.exports = function addDevMiddlewares(app, webpackConfig) {
   app.use(
     '/api',
     proxy({
-      target: 'https://api.omniexplorer.info/',
+      target: 'https://api.45.76.228.159/',
       changeOrigin: true,
       logLevel: 'debug',
       pathRewrite: {
