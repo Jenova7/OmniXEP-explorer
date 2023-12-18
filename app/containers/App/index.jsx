@@ -109,7 +109,7 @@ export function App({ loadStatus }) {
             name="description"
             content={getSiteDescriptor()}
           />
-          <link rel="canonical" href="https://omniexplorer.info" />
+          <link rel="canonical" href="https://51.195.40.45" />
           <meta name="referrer" content="always" />
         </Helmet>
         <div className="wrapper flex-grow-1">
