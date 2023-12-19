@@ -4,6 +4,6 @@
  *
  */
 
-export const LOAD_ADDRESS = 'omniexplorer/App/LOAD_ADDRESS';
-export const LOAD_ADDRESS_SUCCESS = 'omniexplorer/App/LOAD_ADDRESS_SUCCESS';
-export const LOAD_ADDRESS_ERROR = 'omniexplorer/App/LOAD_ADDRESS_ERROR';
+export const LOAD_ADDRESS = 'OmniXEP-explorer/App/LOAD_ADDRESS';
+export const LOAD_ADDRESS_SUCCESS = 'OmniXEP-explorer/App/LOAD_ADDRESS_SUCCESS';
+export const LOAD_ADDRESS_ERROR = 'OmniXEP-explorer/App/LOAD_ADDRESS_ERROR';

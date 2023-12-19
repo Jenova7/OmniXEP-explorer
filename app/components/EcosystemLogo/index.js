@@ -23,7 +23,7 @@ function EcosystemLogo() {
       <NavLink className="pr-0" href="/">
         <IMGLogo
           src={btcLogo}
-          alt="omniexplorer"
+          alt="OmniXEP-explorer"
           className="mr-3"
           style={{
             width: '2rem',

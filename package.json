@@ -1,10 +1,10 @@
 {
-  "name": "omniexplorer",
+  "name": "OmniXEP-explorer",
   "version": "7.2.0",
   "description": "Omni Explorer is a Block Explorer and Analytics Platform for the Omni Layer",
   "repository": {
     "type": "git",
-    "url": "https://github.com/omniLayer/omniexplorer.git"
+    "url": "https://github.com/ElectraProtocol/OmniXEP-explorer.git"
   },
   "license": "MIT",
   "author": "OmniLayer Team",

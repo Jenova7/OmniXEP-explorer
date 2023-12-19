@@ -5,4 +5,4 @@
  */
 
 export const TOGGLE_DISABLED_TESTNET =
-  'omniexplorer/Menu/TOGGLE_DISABLED_TESTNET';
+  'OmniXEP-explorer/Menu/TOGGLE_DISABLED_TESTNET';

@@ -4,5 +4,5 @@
  *
  */
 
-export const ERROR_BACKEND_LAGGED = 'omniexplorer/App/ERROR_BACKEND_LAGGED';
-export const ERROR_CLEAN = 'omniexplorer/App/ERROR_CLEAN';
+export const ERROR_BACKEND_LAGGED = 'OmniXEP-explorer/App/ERROR_BACKEND_LAGGED';
+export const ERROR_CLEAN = 'OmniXEP-explorer/App/ERROR_CLEAN';

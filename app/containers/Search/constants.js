@@ -4,6 +4,6 @@
  *
  */
 
-export const LOAD_SEARCH = 'omniexplorer/App/LOAD_SEARCH';
-export const LOAD_SEARCH_SUCCESS = 'omniexplorer/App/LOAD_SEARCH_SUCCESS';
-export const LOAD_SEARCH_ERROR = 'omniexplorer/App/LOAD_SEARCH_ERROR';
+export const LOAD_SEARCH = 'OmniXEP-explorer/App/LOAD_SEARCH';
+export const LOAD_SEARCH_SUCCESS = 'OmniXEP-explorer/App/LOAD_SEARCH_SUCCESS';
+export const LOAD_SEARCH_ERROR = 'OmniXEP-explorer/App/LOAD_SEARCH_ERROR';

@@ -91,8 +91,8 @@ module.exports = require('./webpack.base.babel')({
     }),
 
     new WebpackPwaManifest({
-      name: 'OmniExplorer',
-      short_name: 'OmniExplorer',
+      name: 'OmniXEP-explorer',
+      short_name: 'OmniXEP-explorer',
       description:
         'The block explorer for Omni Token, Tether, USDT, MaidSafe and Omni Layer Tokens / Cryptocurrencies',
       theme_color: '#b1624d',

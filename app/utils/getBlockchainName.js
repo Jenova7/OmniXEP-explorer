@@ -9,7 +9,7 @@ export default () => {
   if (isLTC) {
     return 'Litecoin';
   }
-  return 'OmniExplorer';
+  return 'OmniXEP-explorer';
 };
 
 const getShortName = () => {
@@ -29,7 +29,7 @@ const getLongName = () => {
   if (isLTC) {
     return 'Litecoin Explorer';
   }
-  return 'OmniExplorer';
+  return 'OmniXEP-explorer';
 };
 
 const getLayerName = () => {
