@@ -8,7 +8,7 @@ const config = {
   siteTitle: `The block explorer for ${getLayerName()} Tokens`,
   siteDescription: getSiteDescriptor(),
   siteImage: '/favicon.png',
-  siteUrl: 'https://omniexplorer.info',
+  siteUrl: 'http://82.67.5.168',
   pathPrefix: '',
   authorTwitterAccount: '@Omni_layer',
 };
